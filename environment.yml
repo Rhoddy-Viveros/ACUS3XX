@@ -1,0 +1,8 @@
+name: my_project
+channels:
+- conda-forge
+dependencies:
+- python=3.8
+- libportaudio2
+- pip:
+  - pytta
