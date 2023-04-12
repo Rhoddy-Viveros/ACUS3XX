@@ -1,9 +1,14 @@
-name: my_project
+name: ACUS315
 channels:
 - conda-forge
 - anaconda
 dependencies:
 - python=3.8
 - portaudio
+- pip
+- numpy
+- scipy
+- matplotlib
+- jupyter
 - pip:
   - pytta
