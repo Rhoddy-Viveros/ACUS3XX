@@ -14,3 +14,4 @@ dependencies:
 - pip:
   - pytta
   - ipympl
+  - jupyter_contrib_nbextensions
