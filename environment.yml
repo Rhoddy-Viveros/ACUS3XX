@@ -7,6 +7,7 @@ dependencies:
 - portaudio
 - pip
 - numpy
+- nodejs
 - scipy
 - matplotlib
 - jupyter
